@@ -2,12 +2,15 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"oWall","order":3,"path":"objects/oWall/oWall.yy",},
+    {"name":"sBackground","order":8,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sClouds","order":7,"path":"sprites/sClouds/sClouds.yy",},
     {"name":"sInvisibleWall","order":2,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
     {"name":"sPlayer","order":1,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerR","order":5,"path":"sprites/sPlayerR/sPlayerR.yy",},
-    {"name":"sBackground","order":8,"path":"sprites/sBackground/sBackground.yy",},
-    {"name":"sWalls","order":6,"path":"sprites/sWalls/sWalls.yy",},
+    {"name":"sprite","order":6,"path":"sprites/sprite/sprite.yy",},
+    {"name":"sGrain","order":11,"path":"sprites/sGrain/sGrain.yy",},
+    {"name":"sWalls","order":9,"path":"sprites/sWalls/sWalls.yy",},
+    {"name":"tWalls","order":10,"path":"tilesets/tWalls/tWalls.yy",},
   ],
 }
