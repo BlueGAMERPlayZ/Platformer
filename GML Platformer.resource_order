@@ -1,9 +1,12 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"oGame","order":15,"path":"objects/oGame/oGame.yy",},
     {"name":"oWall","order":3,"path":"objects/oWall/oWall.yy",},
     {"name":"oWarp","order":13,"path":"objects/oWarp/oWarp.yy",},
     {"name":"Room2","order":12,"path":"rooms/Room2/Room2.yy",},
+    {"name":"sJump","order":17,"path":"sounds/sJump/sJump.yy",},
+    {"name":"sSoundtrack","order":16,"path":"sounds/sSoundtrack/sSoundtrack.yy",},
     {"name":"sBackground","order":8,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sClouds","order":7,"path":"sprites/sClouds/sClouds.yy",},
     {"name":"sGrain","order":11,"path":"sprites/sGrain/sGrain.yy",},

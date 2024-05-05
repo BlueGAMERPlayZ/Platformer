@@ -1,0 +1,1 @@
+audio_play_sound(sSoundtrack, 0, true);

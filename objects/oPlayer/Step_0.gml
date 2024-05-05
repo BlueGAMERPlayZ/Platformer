@@ -64,3 +64,10 @@ else
 }
 
 if (hsp != 0) image_xscale = sign(hsp);
+// Check for jump input (e.g., pressing spacebar)
+if keyboard_check_pressed(vk_space)
+{
+    // Play the jump sound effect
+    audio_play_sound(sJump, 1, false);
+ 
+}
