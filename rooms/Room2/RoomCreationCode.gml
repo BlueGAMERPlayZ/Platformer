@@ -1,5 +1,4 @@
-/// Room Creation Code for Room2
-
-    // Set player position in the new room
-    oPlayer.x = 64; // Set player's X position
-    oPlayer.y = 288; // Set player's Y position
+/// Room Creation Code
+// Set the player's position when entering the room
+oPlayer.x = 64; // Set desired x-coordinate
+oPlayer.y = 288;  // Set desired y-coordinate
