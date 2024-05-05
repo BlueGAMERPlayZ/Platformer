@@ -1,4 +1,4 @@
-# GML-Platformer-Starter-Kit
+# GML Platformer Game
 
 Game Objectives
 ----------------
@@ -14,7 +14,7 @@ Videos Completed
 
 Mechanics 
 ----------
-Implemented: Controllable sprite, tiles, background, sound effects
+Implemented: Controllable sprite, sprite animation, tiles, background, sound effects
 
 
 Customizations
